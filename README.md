@@ -36,4 +36,5 @@ So that your images can perform well and be responsive, use the sizes property f
 
 So that you can better understand how to use Image from Next.js, you can visit the video that was made by Dave Gray
 
-# [Next.js Image Optimization with Image Component | Responsive Images](https://youtu.be/gpJKj45AikY)
+## So that you can better understand how to use Image from Next.js, you can visit the video that was made by Dave Gray
+- [Next.js Image Optimization with Image Component | Responsive Images](https://youtu.be/gpJKj45AikY)
